@@ -58,3 +58,7 @@ Display Phase
 
 Shows normalized images in a 1×2 grid for visual verification
 
+*OUTPUT*  :
+
+![Image](https://github.com/user-attachments/assets/a01b18bf-d3de-4904-bc19-cbeaab92a6ac)
+
